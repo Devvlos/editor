@@ -1,5 +1,6 @@
 {
-  "name": "colaburl",
+  "proxy": "http://localhost:8080",
+  "name": "colaburlll",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -50,7 +51,6 @@
   "devDependencies": {
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.4",
-    "webpack-dev-server": "^4.13.1"
+    "tailwindcss": "^3.4.4"
   }
 }
